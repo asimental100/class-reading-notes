@@ -1,9 +1,9 @@
 How the Web Works
   1. You connect to the web through an Internet Service Provider (ISP) by typing in a domain name or web address.
   2. Your computer conacts a network of servers call Domain Name System (DNS) servers.
-   2.a. These servers act like phone books; they tell your compter the IP address associated with the requested domain name.
-   2.b. Every device on the web has a unique IP address.
-     2.b.1. IPs are "sets of up to 32 characters."
+    2.a. These servers act like phone books; they tell your compter the IP address associated with the requested domain name.
+    2.b. Every device on the web has a unique IP address.
+      2.b.1. IPs are "sets of up to 32 characters."
   3. The unique number returned by the DNS server allows your browser to contact the web server that hosts the website you've requested.
     3.a. Web servers are computers set up especially to send web pages to users.
   4. The web server then sends the page you requested back to your web browser.
