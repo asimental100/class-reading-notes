@@ -12,3 +12,5 @@ Three simple things, doctors hate these simple tricks, that you can do to improv
   3. Diversify thought --- talk to random children and asylum patients because their minds are free from institutional manners of thinking. 
   
 Remember when you were a toddler and you asked your parents why every 10 seconds until they yelled at you? Try that again as an adult. But. Ya know. With like better questions that make you sound smart and stuff.
+
+“Question everything,” Albert Einstein famously said.
